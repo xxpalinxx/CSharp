@@ -1,0 +1,14 @@
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.AssemblyInfoInputs.cache
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.AssemblyInfo.cs
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.csproj.CoreCompileInputs.cache
+C:\Users\palin\source\repos\PrimeraEntrega\bin\Debug\net8.0\PrimeraEntrega.exe
+C:\Users\palin\source\repos\PrimeraEntrega\bin\Debug\net8.0\PrimeraEntrega.deps.json
+C:\Users\palin\source\repos\PrimeraEntrega\bin\Debug\net8.0\PrimeraEntrega.runtimeconfig.json
+C:\Users\palin\source\repos\PrimeraEntrega\bin\Debug\net8.0\PrimeraEntrega.dll
+C:\Users\palin\source\repos\PrimeraEntrega\bin\Debug\net8.0\PrimeraEntrega.pdb
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.dll
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\refint\PrimeraEntrega.dll
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.pdb
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.genruntimeconfig.cache
+C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\ref\PrimeraEntrega.dll
