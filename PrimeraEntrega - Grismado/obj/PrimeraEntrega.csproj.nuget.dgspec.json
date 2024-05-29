@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\palin\\source\\repos\\PrimeraEntrega\\PrimeraEntrega.csproj": {}
+    "G:\\Pablo\\CSharp\\CSharp\\PrimeraEntrega - Grismado\\PrimeraEntrega.csproj": {}
   },
   "projects": {
-    "C:\\Users\\palin\\source\\repos\\PrimeraEntrega\\PrimeraEntrega.csproj": {
+    "G:\\Pablo\\CSharp\\CSharp\\PrimeraEntrega - Grismado\\PrimeraEntrega.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\palin\\source\\repos\\PrimeraEntrega\\PrimeraEntrega.csproj",
+        "projectUniqueName": "G:\\Pablo\\CSharp\\CSharp\\PrimeraEntrega - Grismado\\PrimeraEntrega.csproj",
         "projectName": "PrimeraEntrega",
-        "projectPath": "C:\\Users\\palin\\source\\repos\\PrimeraEntrega\\PrimeraEntrega.csproj",
-        "packagesPath": "C:\\Users\\palin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\palin\\source\\repos\\PrimeraEntrega\\obj\\",
+        "projectPath": "G:\\Pablo\\CSharp\\CSharp\\PrimeraEntrega - Grismado\\PrimeraEntrega.csproj",
+        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+        "outputPath": "G:\\Pablo\\CSharp\\CSharp\\PrimeraEntrega - Grismado\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\palin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

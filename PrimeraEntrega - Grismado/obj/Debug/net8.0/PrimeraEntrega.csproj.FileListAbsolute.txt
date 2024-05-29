@@ -12,3 +12,18 @@ C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\refint\PrimeraEntreg
 C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.pdb
 C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\PrimeraEntrega.genruntimeconfig.cache
 C:\Users\palin\source\repos\PrimeraEntrega\obj\Debug\net8.0\ref\PrimeraEntrega.dll
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\bin\Debug\net8.0\PrimeraEntrega.exe
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\bin\Debug\net8.0\PrimeraEntrega.deps.json
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\bin\Debug\net8.0\PrimeraEntrega.runtimeconfig.json
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\bin\Debug\net8.0\PrimeraEntrega.dll
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\bin\Debug\net8.0\PrimeraEntrega.pdb
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.AssemblyInfoInputs.cache
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.AssemblyInfo.cs
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.csproj.CoreCompileInputs.cache
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.sourcelink.json
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.dll
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\refint\PrimeraEntrega.dll
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.pdb
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\PrimeraEntrega.genruntimeconfig.cache
+G:\Pablo\CSharp\CSharp\PrimeraEntrega - Grismado\obj\Debug\net8.0\ref\PrimeraEntrega.dll
