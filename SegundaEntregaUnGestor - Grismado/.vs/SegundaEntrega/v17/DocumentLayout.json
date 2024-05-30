@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|c:\\users\\pablo\\source\\repos\\segundaentregaungestor\\database\\gestorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|solutionrelative:database\\gestorbasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|c:\\users\\pablo\\source\\repos\\segundaentregaungestor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|c:\\users\\pablo\\source\\repos\\segundaentregaungestor\\models\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|solutionrelative:models\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|c:\\users\\pablo\\source\\repos\\segundaentregaungestor\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|c:\\users\\pablo\\source\\repos\\segundaentregaungestor\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|c:\\users\\pablo\\source\\repos\\segundaentregaungestor\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E16C37A-AEEE-43C0-AA06-8D7FF0395274}|SegundaEntrega.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorBaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Database\\GestorBaseDatos.cs",
+              "RelativeDocumentMoniker": "Database\\GestorBaseDatos.cs",
+              "ToolTip": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Database\\GestorBaseDatos.cs*",
+              "RelativeToolTip": "Database\\GestorBaseDatos.cs*",
+              "ViewState": "AQIAADUBAAAAAAAAAAAUwD8BAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:53:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoVendido.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\ProductoVendido.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoVendido.cs",
+              "ToolTip": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\ProductoVendido.cs",
+              "RelativeToolTip": "Models\\ProductoVendido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:09:23.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:09:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:09:00.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:08:52.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregaUnGestor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:07:55.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
