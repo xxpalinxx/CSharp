@@ -1,17 +1,21 @@
 ﻿using SegundaEntrega.Models;
+using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SegundaEntrega.Database
 {
-    internal class GestorDatosVentas
+    internal class GestorVenta
     {
         private string connectionString;
 
-        public GestorDatosVentas()
+        public GestorVenta()
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
         }
-
         public bool DeleteVenta(int id)
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
@@ -51,7 +55,7 @@ namespace SegundaEntrega.Database
                 {
                     int ventaId = Convert.ToInt32(reader["Id"]);
                     string comentarios = reader["Comentarios"].ToString();
-                    int idUsuario = Convert.ToInt32(reader["IdUsuario"])
+                    int idUsuario = Convert.ToInt32(reader["IdUsuario"]);
                     Venta venta = new Venta(ventaId, comentarios, idUsuario);
                     return venta;
                 }

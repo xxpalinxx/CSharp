@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DSirECbYz2s=",
+  "dgSpecHash": "3f80B/HOKlM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntrega\\SegundaEntrega.csproj",
+  "projectFilePath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntrega.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Pablo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

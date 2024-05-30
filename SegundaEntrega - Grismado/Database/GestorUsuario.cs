@@ -1,17 +1,21 @@
 ﻿using SegundaEntrega.Models;
+using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SegundaEntrega.Database
 {
-    internal class GestorDatosUsuarios
+    internal class GestorUsuario
     {
         private string connectionString;
 
-        public GestorDatosUsuarios()
+        public GestorUsuario()
         {
             connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
         }
-
         public bool DeleteUser(int id)
         {
             using (SqlConnection conn = new SqlConnection(connectionString))

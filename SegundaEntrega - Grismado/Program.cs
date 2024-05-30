@@ -1,6 +1,5 @@
 ﻿
 
-
 using SegundaEntrega.Database;
 using SegundaEntrega.Models;
 
@@ -10,32 +9,36 @@ namespace SegundaEntrega
     {
         static void Main(string[] args)
         {
-            GestorBaseDeDatos gestorBaseDeDatos = new GestorBaseDeDatos();
+            GestorProducto gestorProducto = new GestorProducto();
+            GestorProductoVendido gestorProductoVendido = new GestorProductoVendido();
+            GestorUsuario gestorUsuario = new GestorUsuario();
+            GestorVenta gestorVenta = new GestorVenta();
+
             try
             {
-                Usuario nuevoUsuario = new Usuario("Osvaldo", "Pescado", "Fishvaldo", "123asd", "fisher@gmail.com");
-                if (gestorBaseDeDatos.CreateUser(nuevoUsuario))
+                Producto productoNuevo = new Producto("Cartera",100.00,350.00,20,5);
+                if (gestorProducto.CreateProduct(productoNuevo))
+                {
+                    Console.WriteLine("Producto Creado");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            try
+            {
+                Usuario nuevoUsuario = new Usuario("Estefania", "Dominico", "Stefy", "asdg3asd", "stefy@gmail.com");
+                if (gestorUsuario.CreateUser(nuevoUsuario))
                 {
                     Console.WriteLine("Usuario Creado");
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.ToString());
+                Console.WriteLine(ex.Message);
             }
-            try
-            {
-                Producto nuevoProducto = new Producto("Pollera", 100.00, 250.00, 14, 4);
-                if (gestorBaseDeDatos.CreateProduct(nuevoProducto))
-                {
-                    Console.WriteLine("Producto agregado");
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-            }
-
         }
     }
 }

@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\source\\repos\\SegundaEntrega\\SegundaEntrega.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntrega.csproj",
       "projectName": "SegundaEntrega",
-      "projectPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntrega\\SegundaEntrega.csproj",
+      "projectPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntrega.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntrega\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",

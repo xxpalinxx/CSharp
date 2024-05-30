@@ -1,17 +1,21 @@
 ﻿using SegundaEntrega.Models;
+using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SegundaEntrega.Database
 {
-    internal class GestorDatosProductoVendido
+    internal class GestorProductoVendido
     {
         private string connectionString;
 
-        public GestorDatosProductoVendido()
+        public GestorProductoVendido()
         {
-            string connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
+            connectionString = "Server=.;Database=SistemaGestion;Trusted_Connection=True;";
         }
-
         public bool DeleteProductoVendido(int id)
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
@@ -100,9 +104,5 @@ namespace SegundaEntrega.Database
                 return listaProductoVendido;
             }
         }
-
-
-
-
     }
 }

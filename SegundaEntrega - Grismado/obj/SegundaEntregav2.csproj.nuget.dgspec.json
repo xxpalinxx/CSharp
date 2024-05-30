@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntrega.csproj": {}
+    "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntregav2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntrega.csproj": {
+    "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntregav2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntrega.csproj",
-        "projectName": "SegundaEntrega",
-        "projectPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntrega.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntregav2.csproj",
+        "projectName": "SegundaEntregav2",
+        "projectPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\SegundaEntregav2.csproj",
         "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Pablo\\source\\repos\\SegundaEntregav2\\obj\\",
         "projectStyle": "PackageReference",
